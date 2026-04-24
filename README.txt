@@ -1,4 +1,4 @@
-# 💻 Simulador de Algoritmos de Escalonamento
+# Simulador de Algoritmos de Escalonamento
 
 **Trabalho Acadêmico | Desenvolvido em Dupla** Projeto prático desenvolvido para a disciplina de **Sistemas Operacionais** da Faculdade de Computação da **UFMS** (Universidade Federal de Mato Grosso do Sul).
 
