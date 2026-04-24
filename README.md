@@ -3,8 +3,8 @@
 **Trabalho Acadêmico | Desenvolvido em Dupla** Projeto prático desenvolvido para a disciplina de **Sistemas Operacionais** da Faculdade de Computação da **UFMS** (Universidade Federal de Mato Grosso do Sul).
 
 **Autores:**
-* **Heli Souza** - [Seu LinkedIn] | [Seu GitHub]
-* **[Nome da sua dupla]** - [LinkedIn ou GitHub da dupla]
+* **Heli Souza**
+* **Junior Rosa**
 
 ---
 
