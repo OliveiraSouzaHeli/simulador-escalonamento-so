@@ -112,18 +112,18 @@ public class Simulador {
         teclado.close();
     }
 
-    // 🔁 Cópia segura (AGORA CORRETA)
+    // 🔁 Cópia segura
     private static List<Processo> copiarProcessos(List<Processo> original) {
         List<Processo> copia = new ArrayList<>();
 
         for (Processo p : original) {
-            copia.add(p.copiar()); // 🔥 usa o método correto
+            copia.add(p.copiar());
         }
 
         return copia;
     }
 
-    // 📋 Exibição
+    // Exibição
     private static void exibirProcessos(List<Processo> processos, int quantum) {
         System.out.println("\n--- Processos Carregados ---");
 
