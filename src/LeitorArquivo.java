@@ -32,7 +32,6 @@ public class LeitorArquivo {
                     continue;
                 }
 
-                // 🔥 CORREÇÃO AQUI
                 try {
                     String[] partes = linha.split("\\s+");
 
