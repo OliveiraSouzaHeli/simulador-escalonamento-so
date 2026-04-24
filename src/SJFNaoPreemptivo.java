@@ -92,7 +92,6 @@ public class SJFNaoPreemptivo implements Escalonador {
         System.out.printf("%-10s %-10s %-10s %-12s %-12s %-12s %-10s%n",
                 "Processo", "Chegada", "Burst", "Início", "Fim", "Espera", "Retorno");
 
-        // 🔥 melhoria opcional (igual ao SJF)
         processos.sort(Comparator.comparingInt(Processo::getInicio));
 
         double somaEspera = 0, somaRetorno = 0;
